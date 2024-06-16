@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["☄️Watching SpaceRoleplay","☄️Coming Soon "];
+const statusMessages = ["🌴Wathing Eden Roleplay","🌴Coming soon "];
 
 
 let currentIndex = 0;
