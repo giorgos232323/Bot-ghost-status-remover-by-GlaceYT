@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🌴Wathing Liquid Team","🌴Wathing Liquid Team "];
+const statusMessages = ["🌴Wathing TrapStar Smp","🌴Coming Soon "];
 
 
 let currentIndex = 0;
