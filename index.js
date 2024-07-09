@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🌴Wathing Eden Smp","🌴Wathing Eden Smp"];
+const statusMessages = ["✅Loqqoi","✅Controlling Reverse"];
 
 
 let currentIndex = 0;
