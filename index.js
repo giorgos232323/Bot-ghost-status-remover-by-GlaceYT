@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["✅Loqqoi","✅Controlling Reverse"];
+const statusMessages = ["",""];
 
 
 let currentIndex = 0;
