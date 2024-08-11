@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [".","."];
+const statusMessages = ["✅Watching Pasco Roleplay","📛If You Want To Join Get Whitelist "];
 
 
 let currentIndex = 0;
